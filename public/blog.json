@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/GydqJ1H/cover1.jpg",
+      "title": "Exploring the Cosmos",
+      "author_img": "https://i.ibb.co.com/YBcHt5h2/profile1.jpg",
+      "posted_date": "2025-01-10",
+      "reading_time": "8 min read",
+      "hashtags": ["#space", "#astronomy", "#science"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/GQb6Nsx2/cover2.jpg",
+      "title": "The Future of AI",
+      "author_img": "https://i.ibb.co.com/TDvXysdT/profile2.jpg",
+      "posted_date": "2025-01-12",
+      "reading_time": "6 min read",
+      "hashtags": ["#AI", "#technology", "#innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/YTdRHzcQ/cover3.jpg",
+      "title": "A Journey Through History",
+      "author_img": "https://i.ibb.co.com/j9gp5ccH/profile3.jpg",
+      "posted_date": "2025-01-15",
+      "reading_time": "10 min read",
+      "hashtags": ["#history", "#culture", "#society"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/qLpY1tyL/cover4.jpg",
+      "title": "Mastering Python for Data Science",
+      "author_img": "https://i.ibb.co.com/8n2dxLWp/profile4.jpg",
+      "posted_date": "2025-01-18",
+      "reading_time": "12 min read",
+      "hashtags": ["#python", "#datascience", "#programming"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/Gv00jbxM/cover5.jpg",
+      "title": "Healthy Eating: A Guide",
+      "author_img": "https://i.ibb.co.com/rGLfKKyL/profile5.jpg",
+      "posted_date": "2025-01-20",
+      "reading_time": "5 min read",
+      "hashtags": ["#health", "#nutrition", "#wellness"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/Fk8Q6msQ/cover6.jpg",
+      "title": "Building Scalable Web Apps",
+      "author_img": "https://i.ibb.co.com/QF2fLJ2W/profile6.jpg",
+      "posted_date": "2025-01-22",
+      "reading_time": "15 min read",
+      "hashtags": ["#webdev", "#scalability", "#software"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/8pytdWc/cover7.jpg",
+      "title": "Mindfulness and Productivity",
+      "author_img": "https://i.ibb.co.com/qHNRm9p/profile7.jpg",
+      "posted_date": "2025-01-24",
+      "reading_time": "7 min read",
+      "hashtags": ["#mindfulness", "#productivity", "#mentalhealth"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co.com/hJHXLxxz/cover8.jpg",
+      "title": "Understanding Quantum Computing",
+      "author_img": "https://i.ibb.co.com/RGbRj6pn/profile8.jpg",
+      "posted_date": "2025-01-26",
+      "reading_time": "13 min read",
+      "hashtags": ["#quantumcomputing", "#technology", "#future"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co.com/JjQf2jnG/cover9.jpg",
+      "title": "Sustainability in 2025",
+      "author_img": "https://i.ibb.co.com/BVtrCNyV/profile9.jpg",
+      "posted_date": "2025-01-28",
+      "reading_time": "9 min read",
+      "hashtags": ["#sustainability", "#environment", "#green"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co.com/v6P9X9NL/cover10.jpg",
+      "title": "The Art of Photography",
+      "author_img": "https://i.ibb.co.com/TjRk329/profile10.jpg",
+      "posted_date": "2025-01-30",
+      "reading_time": "11 min read",
+      "hashtags": ["#photography", "#art", "#creativity"]
+    }
+  ]
+  
