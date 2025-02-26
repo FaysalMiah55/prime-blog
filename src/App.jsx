@@ -14,12 +14,12 @@ function App() {
   }
 
   const handleMarkAsRead = (time) =>{
-    // setReadingTime(readingTime + time)
-    const newReadingTime = readingTime + time;
-    setReadingTime(newReadingTime)
-    console.log(newReadingTime)
+    // console.log('mark' ,time)
+    setReadingTime(readingTime + parseFloat(time))
+    // const newReadingTime = readingTime + time;
+    // setReadingTime(newReadingTime)
+    // console.log(newReadingTime)
   }
-  
 
   return (
     <>
